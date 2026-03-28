@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simplified Trading Bot for Binance Futures Testnet (USDT-M)
-Complete single-file implementation for Python Developer Task
+Complete implementation for Python Developer Task
 """
 
 import argparse
